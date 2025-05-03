@@ -1,11 +1,11 @@
-console.log("TEROL")    // syntax to print
+//console.log("TEROL")    // syntax to print
 
 
 // variables
-const acountId = 12345  //cont can't change
+const accountId = 12345  //cont can't change
 let accountMail = "abc@gmail.com"   //changeable variable
 var accoutPassword = "abc123"   //var is not refferable
-accountCity = kolkata   //possible
+let accountCity = "kolkata"   //possible
 let accountState
 
 /*
